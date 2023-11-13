@@ -1,1 +1,1 @@
-# LaboratoriumPython
+# Laboratorium_Python
